@@ -5,8 +5,8 @@
     <style>
         /* Styling the body */
         * {
-            margin: 1px;
-            padding: 1px;
+            margin: 0px;
+            padding: 0px;
         }
 
         /* Styling the first parallax's
